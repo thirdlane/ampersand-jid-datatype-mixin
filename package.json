@@ -1,0 +1,14 @@
+{
+  "name": "ampersand-jid-datatype-mixin",
+  "version": "1.0.0",
+  "description": "JID datatype for Ampersand state",
+  "main": "index.js",
+  "author": "Lance Stout <lance@andyet.net>",
+  "license": "MIT",
+  "dependencies": {
+    "xmpp-jid": "^1.0.2"
+  },
+  "devDependencies": {
+    "precommit-hook": "^1.0.7"
+  }
+}
