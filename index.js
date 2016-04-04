@@ -6,7 +6,7 @@ module.exports = {
         jid: {
             set: function (newVal) {
                 return {
-                    val: new JID.JID(newVal),
+                    val: newVal ? new JID.JID(newVal) : "",
                     type: 'jid'
                 };
             },
