@@ -6,7 +6,7 @@
   "author": "Lance Stout <lance@andyet.net>",
   "license": "MIT",
   "dependencies": {
-    "xmpp-jid": "https://github.com/sarumjanuch/xmpp-jid.git"
+    "xmpp-jid": "git+ssh://git@gitlab.thirdlane.com:connect/xmpp-jid.git"
   },
   "devDependencies": {
     "precommit-hook": "^1.0.7"
